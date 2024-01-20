@@ -1,0 +1,13 @@
+type Task {
+    id: ID!
+    todo: String!
+    createdAt: String!
+}
+
+type Query {
+    getTasks: [Task]
+}
+
+type Query {
+    getTasksByUser(userId: ID!): [Task]
+}

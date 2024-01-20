@@ -1,0 +1,20 @@
+#facebook {
+    /* width: 60px;
+    height: 60px;
+    background: url('../../assets/icons.png') 0 0 ; */
+    filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(308deg) brightness(103%) contrast(101%);
+}
+
+#twitter {
+    /* width: 60px;
+    height: 60px;
+    background: url('https://i.stack.imgur.com/3fmAx.png') 65px 0; */
+    filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(308deg) brightness(103%) contrast(101%);
+}
+
+#instagram {
+    /* width: 60px;
+    height: 60px;
+    background: url('https://i.stack.imgur.com/3fmAx.png') 125px 0; */
+    filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(308deg) brightness(103%) contrast(101%);
+}

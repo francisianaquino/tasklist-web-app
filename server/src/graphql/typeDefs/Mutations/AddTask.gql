@@ -1,0 +1,8 @@
+input addTaskInput {
+    todo: String!
+    userId: Int!
+}
+
+type Mutation {
+    addTask(input: addTaskInput): Task
+}
